@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-DeepCode CLI - Open-Source Code Agent
+GlitchGrid CLI - v1
 深度代码CLI - 开源代码智能体
 
 🧬 Data Intelligence Lab @ HKU
