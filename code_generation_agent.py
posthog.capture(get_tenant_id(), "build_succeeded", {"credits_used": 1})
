@@ -1,0 +1,1 @@
+posthog.capture(get_tenant_id(), "build_succeeded", {"credits_used": 1})
