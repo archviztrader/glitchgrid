@@ -1,5 +1,5 @@
 """
-DeepCode - AI Research Engine
+GlitchGrid - AI Research Engine
 
 Streamlit Web Interface Main Application File
 """
